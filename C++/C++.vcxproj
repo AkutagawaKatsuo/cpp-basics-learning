@@ -123,11 +123,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10 运算符加减乘除运算.cpp" />
+    <ClCompile Include="11 运算符取模运算.cpp" />
+    <ClCompile Include="12 运算符递增递减.cpp" />
+    <ClCompile Include="13 运算符赋值运算符.cpp" />
+    <ClCompile Include="14 运算符比较运算.cpp" />
+    <ClCompile Include="15 运算符逻辑运算.cpp" />
     <ClCompile Include="text.cpp" />
-    <ClCompile Include="变量.cpp" />
-    <ClCompile Include="实型.cpp" />
-    <ClCompile Include="整型.cpp" />
-    <ClCompile Include="常量.cpp" />
+    <ClCompile Include="01 变量.cpp" />
+    <ClCompile Include="07 字符串类型.cpp" />
+    <ClCompile Include="05 字符型.cpp" />
+    <ClCompile Include="04 实型.cpp" />
+    <ClCompile Include="08 布尔数据类型.cpp" />
+    <ClCompile Include="09 数据的输入.cpp" />
+    <ClCompile Include="03 整型.cpp" />
+    <ClCompile Include="02 常量.cpp" />
+    <ClCompile Include="06 转义字符.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
