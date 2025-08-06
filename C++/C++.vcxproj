@@ -129,6 +129,15 @@
     <ClCompile Include="13 运算符赋值运算符.cpp" />
     <ClCompile Include="14 运算符比较运算.cpp" />
     <ClCompile Include="15 运算符逻辑运算.cpp" />
+    <ClCompile Include="16 选择结构单行if语句.cpp" />
+    <ClCompile Include="17 选择结构多行if语句.cpp" />
+    <ClCompile Include="18 选择结构多条件if语句.cpp" />
+    <ClCompile Include="19 选择结构嵌套if语句.cpp" />
+    <ClCompile Include="20 选择结构案例比较体重.cpp" />
+    <ClCompile Include="21 选择结构案例三目运算符.cpp" />
+    <ClCompile Include="22. 选择结构 switch语句.cpp" />
+    <ClCompile Include="23 循环结构while语句.cpp" />
+    <ClCompile Include="24 循环结构案例猜数字.cpp" />
     <ClCompile Include="text.cpp" />
     <ClCompile Include="01 变量.cpp" />
     <ClCompile Include="07 字符串类型.cpp" />
