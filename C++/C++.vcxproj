@@ -138,6 +138,15 @@
     <ClCompile Include="22. 选择结构 switch语句.cpp" />
     <ClCompile Include="23 循环结构while语句.cpp" />
     <ClCompile Include="24 循环结构案例猜数字.cpp" />
+    <ClCompile Include="25 循环结构dowhlie语句.cpp" />
+    <ClCompile Include="26 循环结构案例水仙花数.cpp" />
+    <ClCompile Include="27 循环结构for语句.cpp" />
+    <ClCompile Include="28 循环结构案例敲桌子.cpp" />
+    <ClCompile Include="29 嵌套循环.cpp" />
+    <ClCompile Include="30 嵌套循环案例乘法口诀表.cpp" />
+    <ClCompile Include="31 跳转语句break语句.cpp" />
+    <ClCompile Include="32 跳转语句continue语句.cpp" />
+    <ClCompile Include="33 跳转语句goto语句.cpp" />
     <ClCompile Include="text.cpp" />
     <ClCompile Include="01 变量.cpp" />
     <ClCompile Include="07 字符串类型.cpp" />
