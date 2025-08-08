@@ -147,6 +147,14 @@
     <ClCompile Include="31 跳转语句break语句.cpp" />
     <ClCompile Include="32 跳转语句continue语句.cpp" />
     <ClCompile Include="33 跳转语句goto语句.cpp" />
+    <ClCompile Include="34 数组 一维数组定义方式.cpp" />
+    <ClCompile Include="35 数组 一位数组 数组名.cpp" />
+    <ClCompile Include="36 数组 一维数组案例 五只小羊称体重.cpp" />
+    <ClCompile Include="37 数组 一维数组案例 元素逆置.cpp" />
+    <ClCompile Include="38 数组 一维数组 冒泡排序.cpp" />
+    <ClCompile Include="39 数组 二维数组定义方式.cpp" />
+    <ClCompile Include="40 数组 二维数组 数组名.cpp" />
+    <ClCompile Include="41 数组 二维数组案例 考试成绩统计.cpp" />
     <ClCompile Include="text.cpp" />
     <ClCompile Include="01 变量.cpp" />
     <ClCompile Include="07 字符串类型.cpp" />
