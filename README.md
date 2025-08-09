@@ -1,0 +1,1 @@
+This is a repository documenting my journey of self-studying the fundamentals of C++. It contains detailed records of my daily learning progress, complete with practical examples demonstrating the concepts. Feel free to explore it, and if you spot any errors, please point them out—I will make corrections accordingly.
