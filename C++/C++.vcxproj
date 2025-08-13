@@ -177,6 +177,17 @@
     <ClCompile Include="61 结构体 结构体中const使用场景.cpp" />
     <ClCompile Include="62 结构体 结构体案例1.cpp" />
     <ClCompile Include="63 结构体 结构体案例2.cpp" />
+    <ClCompile Include="64 程序的内存模型 内存四区 代码区.cpp" />
+    <ClCompile Include="65 程序的内存模型 内存四区 全局区.cpp" />
+    <ClCompile Include="66 程序的内存模型 内存四区 栈区.cpp" />
+    <ClCompile Include="67 程序的内存模型 内存四区 堆区.cpp" />
+    <ClCompile Include="68 程序的内存模型 new运算符.cpp" />
+    <ClCompile Include="69 C++中的引用 引用的基本语法.cpp" />
+    <ClCompile Include="70 C++中的引用 引用的注意事项.cpp" />
+    <ClCompile Include="71 C++中的引用 引用做函数参数.cpp" />
+    <ClCompile Include="72 C++中的引用 引用做函数返回值.cpp" />
+    <ClCompile Include="73 C++中的引用 引用的本质.cpp" />
+    <ClCompile Include="74 C++中的引用 常量引用.cpp" />
     <ClCompile Include="swap.cpp" />
     <ClCompile Include="text.cpp" />
     <ClCompile Include="01 变量.cpp" />
